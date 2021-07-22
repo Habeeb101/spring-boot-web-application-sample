@@ -5,8 +5,9 @@
 
     <artifactId>article-app-parent</artifactId>
     <groupId>gt.app</groupId>
-    <packaging>pom</packaging>
+    <packaging>war</packaging>
     <version>1.0</version>
+    <name>spring-boot-app</name>
 
     <modules>
         <module>main-app</module>
